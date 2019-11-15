@@ -10,8 +10,8 @@ The online job portal application allows job seekers and recruiters to connect.T
 ```php
 Email: adsatish47@gmail.com
 Password: 123456
-//Note1: There are 100 candadates users all with same password-123456
-//Note2: All Password are encrpyted through code so you CANNOT change password directly from database.
+ password for most users :123456
+
 ```
 
  login as Company with following details
