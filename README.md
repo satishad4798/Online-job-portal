@@ -22,11 +22,13 @@ Password: 123456
 //Note1: There are few  Companies account all with same password-123456
 
 ```
-login as Admin with following details
 
-Username: admin
-Password: 123456
-
+    login as Admin with following details
+    
+```php  
+     Username: admin
+     Password: 123456
+```
 
 	
 
