@@ -76,9 +76,9 @@ Password: 123456
 
 # 9.Admin 
 <img src="#1.Welcome page
-<img src="https://github.com/satishad4798/Online-job-portal/blob/master/photos/welcome2.png" align="center" > 
+<img src="https://github.com/satishad4798/Online-job-portal/blob/master/photos/admin.png" align="center" > 
 <br />
-<img src="<img src="https://github.com/satishad4798/Online-job-portal/blob/master/photos/welcome2.png" align="center" > 
+
 " align="center" > 
 
 
