@@ -35,7 +35,7 @@ Password: 123456
 <p align="center">
   <img />
 1.Welcome page - Main page of the website ,a normal user can search ,see the job details of different jobs   posted by companies 
-<img src="https://github.com/satishad4798/Loner_Initial/blob/master/Image/Screenshot_2019-04-26-16-10-57-187_com.example.loginpage.png" align="center" width="400" height="700"> 
+<img src=https://github.com/satishad4798/Online-job-portal/tree/master/photos/welcome.png" align="center" width="400" height="700"> 
 <br />
 <br />
 
