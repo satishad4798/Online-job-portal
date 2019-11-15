@@ -1,6 +1,6 @@
 # Online Job-Portal
 
-The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provihttps://github.com/satishad4798/Online-job-portaldes the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
+The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides https://github.com/satishad4798/Online-job-portal the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
 
 
 
